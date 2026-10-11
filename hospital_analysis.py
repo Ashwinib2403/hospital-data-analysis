@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # 2. Load Dataset
-df = pd.read_csv("healthcare_dataset.csv/healthcare_dataset.csv")
+df = pd.read_csv("healthcare_dataset.csv")
 
 
 # 3. Data Overview
