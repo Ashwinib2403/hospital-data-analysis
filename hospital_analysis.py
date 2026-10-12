@@ -3,6 +3,8 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
+from pathlib import Path
+
 
 # 2. Load Dataset
 df = pd.read_csv(Path(__file__).resolve().parent / "healthcare_dataset.csv")
